@@ -8,7 +8,7 @@
   <a href=""><img src="https://img.shields.io/static/v1?label=Dataset&message=Dataset&&color=green"></a> &ensp;
 </div>
 
-## ⏳ Planning
+## ⏳ Schedule
 
 - ✅ Release the Paper
 - - [x] Release the Dataset
@@ -20,7 +20,7 @@
 ### 🧐 Task Overview
 
 <div align="center">
-  <img src="assets/figures/fig1.jpg" width="80%">
+  <img src="assets/figures/teaser.jpg" width="80%">
 </div>
 
 ### 🧐 Model Overview
