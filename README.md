@@ -1,6 +1,6 @@
 ### <div align="center"> 🎨 CreatiLayout: Siamese Multimodal Diffusion Transformer for<br> Creative Layout-to-Image Generation</div>
 
-#### <div align="center"> Hui Zhang, Dexiang Hong, Tingwei Gao, Yitong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang<div> 
+#### <div align="center"> Hui Zhang, Dexiang Hong, Tingwei Gao, Yitong Wang, Jie Shao<br> Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang<div> 
 
 <div align="center">
   <a href=""><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv:CreatiLayout&color=red&logo=arxiv"></a> &ensp;
