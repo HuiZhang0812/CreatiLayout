@@ -1,4 +1,4 @@
-### <div align="center"> 🎨 CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation</div>
+### <div align="center"> 🎨 CreatiLayout: Siamese Multimodal Diffusion Transformer for<br> Creative Layout-to-Image Generation</div>
 
 #### <div align="center"> Hui Zhang, Dexiang Hong, Tingwei Gao, Yitong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang<div> 
 
