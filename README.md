@@ -41,5 +41,10 @@
 If you find our work useful for your research and applications, please kindly cite using this BibTeX:
 
 ```latex
-
+@article{zhang2024creatilayout,
+  title={CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation},
+  author={Zhang, Hui and Hong, Dexiang and Gao, Tingwei and Wang, Yitong and Shao, Jie and Wu, Xinglong and Wu, Zuxuan and Jiang, Yu-Gang},
+  journal={arXiv preprint arXiv:2412.03859},
+  year={2024}
+}
 ```
