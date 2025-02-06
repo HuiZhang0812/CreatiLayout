@@ -89,8 +89,7 @@ python score_layoutsam_benchmark.py
 | Model   | Base model    |  Description  |
 | ------------------------------------------------------------------------------------------------ | -------------- | -------------------------------------------------------------------------------------------------------- |
 | <a href="https://huggingface.co/HuiZhang0812/CreatiLayout"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a> | Stable Diffusion 3 | Model used in the paper
-
-
+| <a href="https://huggingface.co/HuiZhang0812/CreatiLayout_lora"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a> | Stable Diffusion 3 | LoRA version of CreatiLayout
 
 ## ✒️ Citation
 
