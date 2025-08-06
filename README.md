@@ -17,7 +17,7 @@
 > [Hui Zhang](https://huizhang0812.github.io/), 
 > [Dexiang Hong](https://scholar.google.com.hk/citations?user=DUNijlcAAAAJ&hl=zh-CN),
 > [Yitong Wang](https://scholar.google.com/citations?user=NfFTKfYAAAAJ&hl=zh-CN),
-> Jie Shao,
+> [Jie Shao](https://openreview.net/profile?id=~Jie_Shao5),
 > [Xinglong Wu](https://scholar.google.com/citations?user=LVsp9RQAAAAJ&hl=zh-CN),
 > [Zuxuan Wu](https://zxwu.azurewebsites.net/),
 > and 
