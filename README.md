@@ -15,8 +15,7 @@
 > **CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**
 > <br>
 > [Hui Zhang](https://huizhang0812.github.io/), 
-> [Dexiang Hong](https://scholar.google.com.hk/citations?user=DUNijlcAAAAJ&hl=zh-CN), 
-> Tingwei Gao, 
+> [Dexiang Hong](https://scholar.google.com.hk/citations?user=DUNijlcAAAAJ&hl=zh-CN),
 > [Yitong Wang](https://scholar.google.com/citations?user=NfFTKfYAAAAJ&hl=zh-CN),
 > Jie Shao,
 > [Xinglong Wu](https://scholar.google.com/citations?user=LVsp9RQAAAAJ&hl=zh-CN),
@@ -37,6 +36,7 @@ CreatiLayout is a layout-to-image framework for Diffusion Transformer models, of
 **Layout Designer** 🎨: A layout planner leveraging the power of large language models to convert various user inputs (e.g., center points, masks, scribbles) into standardized layouts. 
 
 ## 🔥 News
+- **2025-6-26**: CreatiLayout was accepted by **ICCV 2025** 🎉🎉.
 - **2025-3-10**: We release **CreatiLayout-FLUX**, which empowers FLUX.1-dev for layout-to-image generation and achieves more precise rendering of spatial relationships and attributes.
 - **2025-1-30**: We propose **CreatiLayout-LoRA**, which achieves layout control with fewer additional parameters.
 
